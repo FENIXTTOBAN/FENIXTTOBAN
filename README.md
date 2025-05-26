@@ -8,4 +8,4 @@
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=FENIXTTOBAN&theme=onedark&border_radius=45&locale=es&short_numbers=true)](https://git.io/streak-stats)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide_progress=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FENIXTTOBAN)](https://github.com/anuraghazra/github-readme-stats)
